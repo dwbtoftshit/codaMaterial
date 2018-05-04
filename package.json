@@ -1,0 +1,42 @@
+{
+  "name": "codaMaterial-theme",
+  "displayName": "Coda Material",
+  "description": "A Panic Coda Inspired theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "dinnyzerge",
+  "bugs": {
+    "url": "https://github.com/dwbtoftshit"
+  },
+  "homepage": "https://github.com/dwbtoftshit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwbtoftshit"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coda Material",
+        "uiTheme": "coda-material",
+        "path": "./themes/codaMaterial.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "keywords": ["coda material", "coda-material", "theme", "atom"],
+  "devDependencies": {
+    "docsify-cli": "^3.3.2"
+  },
+  "galleryBanner": {
+    "color": "#2d323b",
+    "theme": "darklight"
+  },
+  "__metadata": {
+    "id": "xxxx",
+    "publisherId": "xxxx",
+    "publisherDisplayName": "dinnyzerge"
+  }
+}
