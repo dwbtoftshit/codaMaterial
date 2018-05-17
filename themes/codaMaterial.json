@@ -49,16 +49,19 @@
     "list.activeSelectionForeground": "#fff",
     "list.focusBackground": "#383E4A",
     "list.hoverBackground": "#292d35",
+
     "list.highlightForeground": "#000000",
     "peekViewEditor.matchHighlightBackground": "#bcbcbc",
     "scrollbarSlider.background": "#4e566660",
     "scrollbarSlider.activeBackground": "#747D9180",
     "scrollbarSlider.hoverBackground": "#5A637580",
+
     "sideBarTitle.foreground": "#000000",
+   
     "sideBar.foreground": "#000000",
-    "sideBar.background": "#f3f3f3",
+    "sideBar.background": "#f6f6f6",
     "sideBarSectionHeader.foreground": "#000",
-    "sideBarSectionHeader.background": "#f3f3f3",
+    "sideBarSectionHeader.background": "#f6f6f6",
     "statusBar.background": "#21252B",
     "statusBar.foreground": "#9da5b4",
     "statusBarItem.hoverBackground": "#2c313a",
@@ -71,11 +74,15 @@
     "tab.inactiveBackground": "#21252B",
     "tab.hoverBackground": "#323842",
     "tab.unfocusedHoverBackground": "#323842",
+
+
     "terminal.foreground": "#C8C8C8",
     "terminal.ansiBlack": "#2D3139",
     "terminal.ansiBlue": "#2e8ccf",
     "terminal.ansiGreen": "#98c379cc",
     "terminal.ansiYellow": "#B4881D",
+  
+
     "titleBar.activeBackground": "#282c34",
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#282C34",

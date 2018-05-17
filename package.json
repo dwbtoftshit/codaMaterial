@@ -2,7 +2,7 @@
   "name": "codaMaterial-theme",
   "displayName": "Coda Material",
   "description": "A Panic Coda Inspired theme for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "dinnyzerge",
   "bugs": {
     "url": "https://github.com/dwbtoftshit"
@@ -23,7 +23,14 @@
         "uiTheme": "coda-material",
         "path": "./themes/codaMaterial.json"
       }
-    ]
+    ],
+    "iconThemes": [
+			{
+				"id": "codamaterial-icons",
+				"label": "Coda Material Icons",
+				"path": "./fileicons/codaMaterial-Icons.json"
+			}
+		]
   },
   "icon": "icon.png",
   "keywords": ["coda material", "coda-material", "theme", "atom"],

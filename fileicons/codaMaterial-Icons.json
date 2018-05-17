@@ -1,0 +1,28 @@
+{
+	"iconDefinitions": {
+		"folder": {
+			"iconPath": "./images/Folder.svg"
+		},
+		"file": {
+			"iconPath": "./images/File.svg"
+		}
+	},
+
+	"folderExpanded": "folder",
+	"folder": "folder",
+	"file": "file",
+	"rootFolderExpanded": "folder",
+	"rootFolder": "folder",
+	"fileExtensions": {
+		// icons by file extension
+	},
+	"fileNames": {
+		// icons by file name
+	},
+	"languageIds": {
+		// icons by language id
+	},
+	"highContrast": {
+		// overrides for high contrast
+	}
+}
