@@ -18,4 +18,3 @@ Add `workbench.iconTheme": "codamaterial-icons"`
 ## Official documentation:
 
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
-P
